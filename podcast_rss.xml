@@ -1,19 +1,34 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Kids Story of the Day</title>
+    <link>.</link>
+    <description>One random curated podcast from the great wide web, updated daily.</description>
+    <item>
+      <title><![CDATA[How do squirrels climb trees?]]></title>
+      <description><![CDATA[Squirrels are everywhere...]]></description>
+      <link>https://chrt.fm/track/542BDB/www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/_/326/7b0d6fdf-ee50-470a-b621-fc17ba450324/ButWhy_Squirrels_Ep166.mp3</link>
+      <guid>https://chrt.fm/track/542BDB/www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/_/326/7b0d6fdf-ee50-470a-b621-fc17ba450324/ButWhy_Squirrels_Ep166.mp3</guid>
+      <pubDate>Tue, 04 Jun 2024 16:46:23 GMT</pubDate>
+      <enclosure url="https://chrt.fm/track/542BDB/www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/_/326/7b0d6fdf-ee50-470a-b621-fc17ba450324/ButWhy_Squirrels_Ep166.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title><![CDATA[Anne Frank: Finding Light in the Dark]]></title>
+      <description><![CDATA[Anne Frank is a beloved rebel...]]></description>
+      <link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prefix.up.audio/s/chrt.fm/track/FGADCC/traffic.megaphone.fm/RGS1516242013.mp3?updated=1686935348</link>
+      <guid>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prefix.up.audio/s/chrt.fm/track/FGADCC/traffic.megaphone.fm/RGS1516242013.mp3?updated=1686935348</guid>
+      <pubDate>Fri, 31 May 2024 18:27:13 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prefix.up.audio/s/chrt.fm/track/FGADCC/traffic.megaphone.fm/RGS1516242013.mp3?updated=1686935348" type="audio/mpeg"/>
+    </item>
+    <!-- Add more <item> elements as needed -->
+  
       <item>
-        <title><![CDATA[How do squirrels climb trees?]]></title>
-        <description><![CDATA[Squirrels are everywhere. Three hundred or so species of these often adorable rodents live on every continent except Antarctica. No matter where you live, city or country you?re bound to have squirrels nearby. How much do you know about our bushy-tailed neighbors? How fast do squirrels and chipmunks run? Why do squirrels have big bushy tails? Do squirrels get sick? Why do they like nuts better than berries? How do squirrels eat acorns? How do squirrels sleep? Are squirrels nocturnal? Answers to your squirrel questions with Ben Dantzer, scientist at University of Michigan. Plus some observational activities you can do to learn more about squirrel behavior! Download our learning guides: PDF | Google Slides | Transcript Submit your squirrel observations to iNaturalist How do squirrels climb up trees? -Rachel, 5, Alabama Squirrels have long nails and they have five digits (fingers or toes) on their paws just like us. And squirrels are expert climbers. ?Some tree, or arboreal, squirrels are really well adapted to climb up trees whereas ground squirrels also have nails or claws, but they use them primarily for digging and not for climbing,? explains Ben Dantzer. ?Tree squirrels have this especially long middle digit that helps them climb up and down trees.? So an extra long middle finger and they can do something else that humans can?t. ?The most helpful thing they can do is when they climb down a tree, squirrels can turn their back feet around when they?re climbing down head first. They turn their rear feet entirely around so they can use those claws to hang down from a tree and walk down easily.? What? Tree squirrels can turn their feet all the way around so they?re backwards when the squirrel is climbing down a tree?! Time to go outside and see if you can observe that in the wild!]]></description>
-        <link>https://chrt.fm/track/542BDB/www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/_/326/7b0d6fdf-ee50-470a-b621-fc17ba450324/ButWhy_Squirrels_Ep166.mp3</link>
-        <guid>https://chrt.fm/track/542BDB/www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/_/326/7b0d6fdf-ee50-470a-b621-fc17ba450324/ButWhy_Squirrels_Ep166.mp3</guid>
-        <pubDate>Tue, 04 Jun 2024 16:46:23 GMT</pubDate>
-        <enclosure url="https://chrt.fm/track/542BDB/www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/_/326/7b0d6fdf-ee50-470a-b621-fc17ba450324/ButWhy_Squirrels_Ep166.mp3" type="audio/mpeg"/>
+        <title><![CDATA[Narwhals: Unicorns of the sea?]]></title>
+        <description><![CDATA[Narwhals are whales, and super cool ones at that. But that cool thing coming out of their heads is a tusk, not a horn. Which means it?s a tooth! And it?s the only known spiral tooth to boot!In this episode, we learn all about narwhals (what that tusk is for and how they?re connected to the myth of the unicorn) and the evolution of teeth (from scale-like nubbins to the versatile chompers we have today).Plus our Moment of Um explores whether or not water has a taste.Today?s episode is sponsored by KiwiCo (kiwico.com/brainson), Khan Academy Kids (khan.co/freekidsapp) and iD Tech (idtech.com/brains).Brains On is a non-profit public radio podcast. You can support Brains On at brainson.org/fans.]]></description>
+        <link>https://play.podtrac.com/APM-BrainsOn/chrt.fm/track/3G835/play.publicradio.org/npr/o/minnesota/podcasts/brains_on/2020/03/17/brainson_20200317_198_128.mp3</link>
+        <guid>https://play.podtrac.com/APM-BrainsOn/chrt.fm/track/3G835/play.publicradio.org/npr/o/minnesota/podcasts/brains_on/2020/03/17/brainson_20200317_198_128.mp3</guid>
+        <pubDate>Tue, 04 Jun 2024 18:14:27 GMT</pubDate>
+        <enclosure url="https://play.podtrac.com/APM-BrainsOn/chrt.fm/track/3G835/play.publicradio.org/npr/o/minnesota/podcasts/brains_on/2020/03/17/brainson_20200317_198_128.mp3" type="audio/mpeg"/>
       </item>
-    
-      <item>
-        <title><![CDATA[Anne Frank: Finding Light in the Dark]]></title>
-        <description><![CDATA[Anne Frank is a beloved rebel who found hope even in the darkest times. Though she and her family were treated brutally by a cruel dictatorship, Anne continued to believe in the goodness of all human beings and to celebrate the beauty of possibility. This podcast is a production of Rebel Girls. It?s based on the book series Good Night Stories for Rebel Girls. This story was produced by Deborah Goldstein with sound design and mixing by F+K Media. It was written and edited by Abby Sher. Fact-checking by Joe Rhatigan. Narration by Abby Sher and Deborah Goldstein. Joy Smith was our executive producer. Original theme music was composed and performed by Elettra Bargiacchi. Thank you to the whole Rebel Girls team who make this podcast possible. Stay rebel!]]></description>
-        <link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prefix.up.audio/s/chrt.fm/track/FGADCC/traffic.megaphone.fm/RGS1516242013.mp3?updated=1686935348</link>
-        <guid>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prefix.up.audio/s/chrt.fm/track/FGADCC/traffic.megaphone.fm/RGS1516242013.mp3?updated=1686935348</guid>
-        <pubDate>Fri, 31 May 2024 18:27:13 GMT</pubDate>
-        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prefix.up.audio/s/chrt.fm/track/FGADCC/traffic.megaphone.fm/RGS1516242013.mp3?updated=1686935348" type="audio/mpeg"/>
-      </item>
-    
+    </channel>
+</rss>

@@ -4,6 +4,15 @@
     <title>Kids Story of the Day</title>
     <link>.</link>
     <description>One random curated podcast from the great wide web, updated daily.</description>
+    
+      <item>
+        <title><![CDATA[Layla asks: What if a cat, a weasel, and a dragon teamed up to save the world?]]></title>
+        <description><![CDATA[Cthunkle is back and trying to invade the real world via a carnival at Drew?s house. But can a What If World story even happen on What Is World? Find out for yourself! This episode originally aired July 17, 2017. Join our Patreon for Ad-Free stories, a Shout-Out on the show, bonus audio, a better chance of having your question answered, and more! patreon.com/whatifworld Subscribe to What If World wherever you listen: link.chtbl.com/whatifworld. Share questions via Twitter @whatifworldpod, Facebook @whatifworldpodcast, Instagram @whatifworldpodcast, or email whatifworldpodcast@gmail.com]]></description>
+        <link>https://traffic.megaphone.fm/ARML1681040414.mp3?updated=1709314054</link>
+        <guid>https://traffic.megaphone.fm/ARML1681040414.mp3?updated=1709314054</guid>
+        <pubDate>Tue, 04 Jun 2024 18:20:52 GMT</pubDate>
+        <enclosure url="https://traffic.megaphone.fm/ARML1681040414.mp3?updated=1709314054" type="audio/mpeg"/>
+      </item>
     <item>
       <title><![CDATA[How do squirrels climb trees?]]></title>
       <description><![CDATA[Squirrels are everywhere...]]></description>
@@ -12,23 +21,6 @@
       <pubDate>Tue, 04 Jun 2024 16:46:23 GMT</pubDate>
       <enclosure url="https://chrt.fm/track/542BDB/www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/_/326/7b0d6fdf-ee50-470a-b621-fc17ba450324/ButWhy_Squirrels_Ep166.mp3" type="audio/mpeg"/>
     </item>
-    <item>
-      <title><![CDATA[Anne Frank: Finding Light in the Dark]]></title>
-      <description><![CDATA[Anne Frank is a beloved rebel...]]></description>
-      <link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prefix.up.audio/s/chrt.fm/track/FGADCC/traffic.megaphone.fm/RGS1516242013.mp3?updated=1686935348</link>
-      <guid>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prefix.up.audio/s/chrt.fm/track/FGADCC/traffic.megaphone.fm/RGS1516242013.mp3?updated=1686935348</guid>
-      <pubDate>Fri, 31 May 2024 18:27:13 GMT</pubDate>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prefix.up.audio/s/chrt.fm/track/FGADCC/traffic.megaphone.fm/RGS1516242013.mp3?updated=1686935348" type="audio/mpeg"/>
-    </item>
-    <!-- Add more <item> elements as needed -->
-  
-      <item>
-        <title><![CDATA[Narwhals: Unicorns of the sea?]]></title>
-        <description><![CDATA[Narwhals are whales, and super cool ones at that. But that cool thing coming out of their heads is a tusk, not a horn. Which means it?s a tooth! And it?s the only known spiral tooth to boot!In this episode, we learn all about narwhals (what that tusk is for and how they?re connected to the myth of the unicorn) and the evolution of teeth (from scale-like nubbins to the versatile chompers we have today).Plus our Moment of Um explores whether or not water has a taste.Today?s episode is sponsored by KiwiCo (kiwico.com/brainson), Khan Academy Kids (khan.co/freekidsapp) and iD Tech (idtech.com/brains).Brains On is a non-profit public radio podcast. You can support Brains On at brainson.org/fans.]]></description>
-        <link>https://play.podtrac.com/APM-BrainsOn/chrt.fm/track/3G835/play.publicradio.org/npr/o/minnesota/podcasts/brains_on/2020/03/17/brainson_20200317_198_128.mp3</link>
-        <guid>https://play.podtrac.com/APM-BrainsOn/chrt.fm/track/3G835/play.publicradio.org/npr/o/minnesota/podcasts/brains_on/2020/03/17/brainson_20200317_198_128.mp3</guid>
-        <pubDate>Tue, 04 Jun 2024 18:14:27 GMT</pubDate>
-        <enclosure url="https://play.podtrac.com/APM-BrainsOn/chrt.fm/track/3G835/play.publicradio.org/npr/o/minnesota/podcasts/brains_on/2020/03/17/brainson_20200317_198_128.mp3" type="audio/mpeg"/>
-      </item>
+
     </channel>
 </rss>

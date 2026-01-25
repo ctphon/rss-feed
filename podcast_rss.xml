@@ -4,18 +4,20 @@
     <title>Kids Story of the Day</title>
     <link>.</link>
     <description>One random curated podcast from the great wide web, updated daily.</description>
+    <itunes:image href="https://ctphon.github.io/rss-feed/ksotd.png"/>
+
          
         
       
       <item>
-        <title><![CDATA[[GrimmGrimmerGrimmest] Two Brothers (Part I)]]></title>
-        <description><![CDATA[The epic tale of twin boys, a golden bird, a forest full of curious creatures, and a very troublesome dragon. On a scale of Grimm, Grimmer, and Grimmest, this episode is Grimmer.]]></description>
-        <link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/FGADCC/traffic.megaphone.fm/SBP5536656785.mp3?updated=1708029968</link>
-        <guid>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/FGADCC/traffic.megaphone.fm/SBP5536656785.mp3?updated=1708029968</guid>
-        <pubDate>Sun, 25 Jan 2026 00:10:05 GMT</pubDate>
-        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/FGADCC/traffic.megaphone.fm/SBP5536656785.mp3?updated=1708029968" type="audio/mpeg"/>
+        <title><![CDATA[[SmashBoomBest] Sneezing vs. Farting]]></title>
+        <description><![CDATA[<p>Today?s debate is a nightmare for the polite and uptight, starring trumpeting rumps and shouting snouts! Open a window and grab your hankie because it&#39;s sneezing versus farting! Actor, educator and sneeze queen Siri Hellerman goes up against comedian, health care worker and fart captain Brant Miller in this gaseous gameshow. Which bodily broadcast will win? Hoot and toot over to smashboom.org and vote for the team YOU think won!</p><br/><p>Also? do you have your Smarty Pass yet?? Get yours today for just $4/month (or $36/year) and get bonus episodes every month, and ad-free versions of every episode of Brains On, Smash Boom Best, Moment of Um, and Forever Ago. Visit <a href="http://www.smartypass.org">www.smartypass.org</a> to get your Smarty Pass today!<br><br>As an added bonus, your Smarty Pass will grant you access to a super special debate starring Sanden and Molly! <strong><a href="https://www.smashboom.org/page/debatevote" class="default">Vote for the debate you want Molly and Sanden to tackle here</a></strong><strong>.</strong></p>]]></description>
+        <link>https://play.podtrac.com/APM-SmashBoomBest/chrt.fm/track/3G835/play.publicradio.org/rss/o/minnesota/podcasts/smash_boom_best/2023/02/09/smashboombest_20230209_S5E19_128.mp3</link>
+        <guid>https://play.podtrac.com/APM-SmashBoomBest/chrt.fm/track/3G835/play.publicradio.org/rss/o/minnesota/podcasts/smash_boom_best/2023/02/09/smashboombest_20230209_S5E19_128.mp3</guid>
+        <pubDate>Sun, 25 Jan 2026 00:16:08 GMT</pubDate>
+        <enclosure url="https://play.podtrac.com/APM-SmashBoomBest/chrt.fm/track/3G835/play.publicradio.org/rss/o/minnesota/podcasts/smash_boom_best/2023/02/09/smashboombest_20230209_S5E19_128.mp3" type="audio/mpeg"/>
         <itunes:image href="https://ctphon.github.io/rss-feed/ksotd.png"/>
-        <media:thumbnail href="https://ctphon.github.io/rss-feed/ksotd.png"/>
+        
       </item>
     <item>
         <title><![CDATA[[WowInTheWorld] Two Whats?! And A Wow! - Hair We Go! (encore)]]></title>
